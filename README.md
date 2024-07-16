@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Majd Amireh</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on [a Hotel Reservation System](https://github.com/majd217/Hotel-Reservation-Backend)
-
-- 🌱 I’m currently learning **Spring boot, PostgreSQL, SOAP, REST**
+- 🌱 I’m currently learning **Spring boot, PostgreSQL, SOAP, REST, Angular**
 
 - 💬 Ask me about **Flutter**
 
